@@ -14,8 +14,8 @@ We solicit papers on multimodal semantic representation, including but not limit
 
 Two types of submission are solicited: long papers (8 pages, excluding references and acknowledgments) and short papers (4 pages, excluding references and acknowledgments).  Accepted papers will be published in the ACL anthology.  Authors will receive up to an extra page to address reviewer comments for the camera-ready version.  Submissions should use the [IWCS 2021 stylesheet](https://iwcs2021.github.io/download/iwcs2021-templates.zip) and should be **fully anonymized** for double-blind reviewing.
 
-Like IWCS 2021, MMSR does not have a pre-submission anonymity period, but we ask authors not to publicly advertise any preprints of submitted work during (or right before) the review period.
+Additionally, we strongly encourage students to submit to the workshop and will consider a student session depending on the number of submissions. **If the first author of your paper is a student,** please select the Student option when you submit your paper.
 
-We strongly encourage students to submit to the workshop and will consider a student session depending on the number of submissions.
+Like IWCS 2021, MMSR does not have a pre-submission anonymity period, but we ask authors not to publicly advertise any preprints of submitted work during (or right before) the review period.
 
 We will be using SoftConf to handle submissions.  **We have extended the submission deadline to March 26!**  Please submit your papers [here](https://www.softconf.com/iwcs2021/MMSR1/)!
